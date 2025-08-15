@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Eden!<br><br>🎓 Electrical Engineering student passionate about Embedded Systems, AI, and IoT<br><br>📚 Learning about machine learning pipelines and how to make them smarter & faster<br><br>🌱 Fun fact: I love baking 🍪 and taking care of my plants 🪴
+👋 Hi, I’m Eden!<br><br>🎓 Electrical Engineering student passionate about Embedded Systems, ML, and IoT<br><br>📚 Learning about machine learning pipelines and how to make them smarter & faster<br><br>🌱 Fun fact: I love baking 🍪 and taking care of my plants 🪴
 
 
 ## 🌐 Socials:
