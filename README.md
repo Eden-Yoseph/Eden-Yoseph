@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Eden!<br><br>🎓 Electrical Engineering student passionate about Embedded Systems, ML, and IoT<br><br>📚 Learning about machine learning pipelines and how to make them smarter & faster<br><br>🌱 Fun fact: I love baking 🍪 and taking care of my plants 🪴
+# 
+Hi, I’m Eden!<br><br>An Electrical Engineering student passionate about Embedded Systems, ML, and IoT<br><br>🌱 Fun fact: I love baking 🍪 and taking care of my plants 🪴
 
 
 ## 🌐 Socials:
@@ -12,4 +12,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Eden-Yoseph&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eden-Yoseph&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
