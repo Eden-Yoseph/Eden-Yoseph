@@ -1,5 +1,5 @@
 # 
-Hi, I’m Eden!<br><br>An Electrical Engineering student passionate about Embedded Systems, ML, and IoT<br><br>🌱 Fun fact: I love baking 🍪 and taking care of my plants 🪴
+Hi, I’m Eden!<br><br>An Electrical Engineering student passionate about Embedded Systems, ML, and IoT<br><br>Fun fact: I love baking 🍪 and taking care of my plants 🪴
 
 
 ## 🌐 Socials:
